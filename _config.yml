@@ -1,2 +1,5 @@
 theme: minima
 title: Mayweather
+description: Mayweather the cat
+show_downloads: false
+theme: jekyll-theme-leap-day
